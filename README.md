@@ -1,2 +1,2 @@
 # wine-quality
-to generate best quality of wine 
+to predict best quality of wine using different classification algorithm
