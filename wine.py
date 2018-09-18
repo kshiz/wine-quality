@@ -5,7 +5,7 @@ Created on Thu Sep 13 19:33:47 2018
 
 @author: kshitij
 """
-
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
